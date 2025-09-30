@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+.primary-text-color {
+  color: #4640de;
+}
+
+.primary-div-color {
+  background-color: #4640de;
+}
+
+.div-border-color {
+  border: 1px solid #4640de;
+}
+
+.gray-text {
+  color: #515b6f;
+}
+
+.gray-border-bottom {
+  border-bottom: 1px solid rgb(224, 224, 224);
+}
+
+.grayest-border-bottom {
+  border-bottom: 1px solid rgb(105, 105, 105);
+}
