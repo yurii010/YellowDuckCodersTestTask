@@ -16,3 +16,13 @@ The React Compiler is not enabled on this template. To add it, see [this documen
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 Figma - https://www.figma.com/design/GUQ0uLMgM8i8MPYRS8PR65/Frontend-test?node-id=19-2&p=f&t=SjnRyfQChMyooHx9-0
+
+Feedback: 
+- Сторінка не відцентрована на 1920 є геп по центру між блоками
+- Список країн неклікабельний
+- Шрифти в хедері не відповідають макетам
+Адаптація:
+- Блок з відгуками "поплив" на планшетах
+- Сервіси накладаються одне на одного
+- Аватар перевізника зжатий н
+- Посилання на кнопках вилазять за межі
